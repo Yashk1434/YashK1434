@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h1 align="center">I'm Bappy 😀</h1>
-<h4 align="center">I'm a Data Scientist | Mentor | YouTuber @dswithbappy</h4>
+<h1 align="center">I'm Yash 😀</h1>
+<h4 align="center">I'm a AI/ML Engineer | Creator | YouTuber @meyash</h4>
 
 
 
@@ -9,10 +9,8 @@
 * Machine Learning
 * Computer vision 
 * Natural Language Processing
-* MLOps
-* Generative AI 
-* Microcontrollers 
-* Robotics
+* Generative AI
+* Microcontrollers
 
 
 
@@ -21,7 +19,7 @@
 
 ### My Hobbies and interests:
 * Traveling
-* Singing
+* Trekking
 * Coding
 
 
@@ -46,11 +44,9 @@
 
 <hr>
 
-[linkedin]: https://www.linkedin.com/in/boktiarahmed73/
-[twitter]: https://twitter.com/bappy913873
-[Instagram]: https://www.instagram.com/entbappy/
-[YouTube]: https://www.youtube.com/dswithbappy
-[LeetCode]: https://leetcode.com/entbappy/
+[linkedin]: https://www.linkedin.com/in/yash-kadu-7b8928222/
+[Instagram]: https://www.instagram.com/yashkadu1434/
+
 
 ## 💰 You can support me if you liked my work by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dswithbappy)
