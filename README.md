@@ -49,7 +49,7 @@
 [<img align="left" alt="Yash Kadu | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/yash-kadu-7b8928222/)
 [<img align="left" alt="Yash Kadu | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />](#)
 [<img align="left" alt="Yash Kadu | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />](https://www.instagram.com/yashkadu1434/)
-[<img align="left" alt="Yash Kadu | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />](https://www.youtube.com/@meyash)
+[<img align="left" alt="Yash Kadu | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />](https://www.youtube.com/@yashkadu1434)
 [<img align="left" alt="Yash Kadu | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />](#)
 
 <br>
