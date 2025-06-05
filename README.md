@@ -18,7 +18,7 @@
 ---
 
 ### ⚙️ Languages & Tools:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,flask,opencv,pytorch,huggingface,sqlite,aws,pycharm,git,github,html,css,jupyter,arduino,chatgpt,scikitlearn,ubuntu,mysql,sqlite,selenium)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,flask,opencv,pytorch,huggingface,aws,pycharm,git,github,html,css,jupyter,arduino,chatgpt,scikitlearn,ubuntu,mysql,sqlite,selenium)
 
 
 ---
