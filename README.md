@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">I'm Yash 😀</h1>
-<h4 align="center">AI/ML Engineer | Creator | YouTuber @yashkadu1434</h4>
+<h3 align="center">AI/ML Engineer | Creator | YouTuber @yashkadu1434</h3>
 
 ---
 
